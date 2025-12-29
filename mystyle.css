@@ -1,0 +1,11 @@
+music-website/
+│
+├── index.html        (Login Page)
+├── home.html         (Music Player)
+├── playlist.html    (Playlist Page)
+├── songs/
+│   ├── song1.mp3
+│   ├── song2.mp3
+│   └── song3.mp3
+└── images/
+    └── cover.jpg
